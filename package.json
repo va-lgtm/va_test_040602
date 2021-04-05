@@ -1,0 +1,9 @@
+{
+    "name": "va_test_040602",
+    "version": "1.0.0",
+    "private": true,
+    "license": "MIT",
+    "devDependencies": {
+        "node-fetch": "~2.5.0"
+    }
+}
